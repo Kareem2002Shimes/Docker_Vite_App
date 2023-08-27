@@ -4,3 +4,4 @@ Dockerfile
 .gitignore
 .dockerignore
 .env
+.env*.local
