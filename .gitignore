@@ -11,7 +11,6 @@ node_modules
 dist
 dist-ssr
 env*.local
-.dockerignore
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
